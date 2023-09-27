@@ -3,6 +3,7 @@
 ## Создание репозитория
  
 git config --global user.name ""
+
 git config --global user.email ""
 ## Посмотреть в какой папке мы находимся
 pwd
